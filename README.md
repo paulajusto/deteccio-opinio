@@ -80,13 +80,6 @@ Aquesta anàlisi ha permès evidenciar les limitacions de cada enfocament i iden
 - NumPy
 - pandas
 
-## Reproducció de l’Experiment
-
-1. Instal·lar les dependències (`pip install -r requirements.txt`).
-2. Descarregar el corpus de Movie Reviews i SentiWordNet.
-3. Executar el notebook pas a pas.
-4. Comparar les mètriques obtingudes i revisar la corba ROC.
-
 ## Llicència
 
 Aquest projecte s’ha desenvolupat amb finalitats acadèmiques. L’ús en entorns productius requereix una revisió addicional i proves de robustesa.
